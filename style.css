@@ -1,0 +1,22 @@
+.head{
+    border: 3px solid green;
+    color: greenyellow;
+    text-align:center;
+    font-weight: bold;
+}
+.tablehead{
+    text-align:center; 
+    color : blue;
+     border:3px solid green;
+}
+.tablerow{
+    align-self: center;
+    border: 1px;
+    width: auto;
+    line-height: 40px;
+}
+.heading-left-light{
+    background-color: hotpink;
+    text-align: center;
+    color: hotpink;
+}
